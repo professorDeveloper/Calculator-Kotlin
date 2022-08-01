@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/action_star"
+        android:icon="@drawable/ic_baseline_add_circle_outline_24"
+        android:title="Star" />
+
+    <item android:id="@+id/action_share"
+        android:icon="@drawable/ic_baseline_wb_cloudy_24"
+        android:title="Share" />
+
+    <item android:id="@+id/action_hide"
+        android:icon="@drawable/ic_baseline_add_circle_outline_24"
+        android:title="Hide" />
+
+</menu>
